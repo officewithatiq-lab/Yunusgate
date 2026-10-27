@@ -1,0 +1,10 @@
+{
+  "name": "SecurGate Pro - Smart Vehicle Access & Security System",
+  "description": "Enterprise Vehicle Entry/Exit Management with QR/RFID scanner, Face Recognition camera, Real-time Dashboard, Google Sheets sync, WhatsApp alerts, offline mode, and automatic reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
